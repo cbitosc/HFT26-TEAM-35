@@ -1,0 +1,6 @@
+{
+  "name": "Resume Architect",
+  "description": "Don't just match the job. Prove your fit. Professional resume tailoring and evidence-backed qualification architect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
